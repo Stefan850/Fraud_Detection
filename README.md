@@ -15,5 +15,5 @@ https://www.kaggle.com/c/ieee-fraud-detection/data
 
 ## Result
  - Prediction of non-Fraud pretty good (most of data is non-Fraud)
- - Algorithm detects most of frauds but high amount of false positiv
+ - Algorithm detects most of frauds but high amount of false positives
  - More feature engineering needed to reduce false positives.
